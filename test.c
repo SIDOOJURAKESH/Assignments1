@@ -1,8 +1,10 @@
 #include<stdio.h>
+int x=6;
 int main()
+
 {
-printf("hellllooooo");
-printf("helllo world");
-printf("hai");
+int x=9;
+printf("%d",x);
+
 }
 
